@@ -9,7 +9,7 @@ how to create variables
 name = "Anshu"
 age = 17
 password = str("Akane@@7850")
-carname = "swift  "
+carname = "tata"
 
 print(name, age, password)
 
